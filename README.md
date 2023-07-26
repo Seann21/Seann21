@@ -9,7 +9,7 @@
 
 - 🏫 I’m currently Studying on **University Nusantara PGRI Kediri**
 
-- 🌱 I’m currently learning **Tailwind css,Jquery,Bootstrap**
+- 🌱 I’m currently learning **bootstrap css, javascript and other framework**
 
 - 🤝 I’m looking for help with **Web Development Project**
 
