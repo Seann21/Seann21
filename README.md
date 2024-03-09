@@ -1,7 +1,10 @@
 ![MasterHead](https://res.cloudinary.com/practicaldev/image/fetch/s--_sk5cfBS--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/xndmxrfhliweofif9jty.png)
 <h1 align="center">Hi 👋, I'm MOH HASAN EFENDI</h1>
 <h3 align="center">A Frontend Developer Enthusiast From Indonesia</h3>
-<img align="right" alt="Coding" width="250" src="https://cdn-web.ruangguru.com/landing-pages/assets/hs/programmer.gif">
+<div align="center">
+  <img height="183" src="https://cdn-web.ruangguru.com/landing-pages/assets/hs/programmer.gif">
+</div>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=seann21&label=Profile%20views&color=0e75b6&style=flat" alt="seann21" /> </p>
 
