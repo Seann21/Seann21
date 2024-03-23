@@ -18,7 +18,7 @@
 
 - 🤝 I’m looking for help with **Development Project**
 
-- 📝 I regularly write articles on [https://seancode.hashnode.dev/](https://seancode.hashnode.dev/)
+- 📝 I regularly write articles on [https://seancode.hashnode.dev/](https://seann.hashnode.dev/)
 
 - 💬 Ask me about **web/apps Development**
 
@@ -30,7 +30,7 @@
 <a href="https://www.linkedin.com/in/moh-hasan-efendi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="moh hasan efendi" height="30" width="40" /></a>
 <a href="https://fb.com/seann" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="seann" height="30" width="40" /></a>
 <a href="https://instagram.com/seanndz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="seanndz" height="30" width="40" /></a>
-<a href="https://hashnode.com/@seann" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@seann" height="30" width="40" /></a>
+<a href="https://hashnode.com/@Seann" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@seann" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/profile/efendimuhammad41" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@efendimuhammad41" height="30" width="40" /></a>
 </p>
 
