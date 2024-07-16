@@ -37,7 +37,7 @@
 
 <h1 align="left">Skill Set:</h3>
 
-### programming language
+### Programming language
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,cpp,php)](https://skillicons.dev)
 
 ### Framework/Ui Framework
