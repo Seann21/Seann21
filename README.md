@@ -12,7 +12,7 @@
 
 - 🏫 I’m currently Studying on **University Nusantara PGRI Kediri**
 
-- 📖 I’m currently learning **React Js and other Framework**
+- 📖 I’m currently learning **Next Js and other Framework**
 
 - 👨‍💻 I’m looking to **Partners Learn programming together**
 
