@@ -41,7 +41,7 @@
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,cpp,php)](https://skillicons.dev)
 
 ### Framework/Ui Framework
-[![My Skills](https://skillicons.dev/icons?i=react,vue,angular,nodejs,laravel,tailwind,jquery,styledcomponents,bootstrap,nextjs,express,vite)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,vue,angular,flutter,nodejs,laravel,tailwind,jquery,styledcomponents,bootstrap,nextjs,express,vite)](https://skillicons.dev)
 
 ### DBMS
 [![My Skills](https://skillicons.dev/icons?i=mysql,mongodb,postgresql)](https://skillicons.dev)
