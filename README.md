@@ -1,4 +1,3 @@
-![MasterHead](https://res.cloudinary.com/practicaldev/image/fetch/s--_sk5cfBS--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/xndmxrfhliweofif9jty.png)
 <h1 align="center">Hi 👋, I'm MOH HASAN EFENDI</h1>
 <h3 align="center">A Frontend Developer Enthusiast From Indonesia</h3>
 <div align="center">
