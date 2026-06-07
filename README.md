@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm MOH HASAN EFENDI</h1>
-<h3 align="center">A IT Developer Enthusiast From Indonesia</h3>
+<h3 align="center">A Product Management Enthusiast From Indonesia</h3>
 <div align="center">
   <img height="183" src="https://cdn-web.ruangguru.com/landing-pages/assets/hs/programmer.gif">
 </div>
@@ -11,15 +11,15 @@
 
 - 🏫 I’m currently Studying on **University Nusantara PGRI Kediri**
 
-- 📖 I’m currently learning **Next Js and other Framework**
+- 📖 I’m currently learning **Project Management**
 
-- 👨‍💻 I’m looking to **Partners Learn programming together**
+- 👨‍💻 I’m looking to **Partners Learn together**
 
 - 🤝 I’m looking for help with **Development Project**
 
 - 📝 I regularly write articles on [https://seancode.hashnode.dev/](https://seann.hashnode.dev/)
 
-- 💬 Ask me about **web/apps Development**
+- 💬 Ask me about **Software Development**
 
 - 📫 How to reach me **efendimuhammad448@gmail.com**
 
