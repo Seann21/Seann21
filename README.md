@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm MOH HASAN EFENDI</h1>
-<h3 align="center">A Product Management Enthusiast From Indonesia</h3>
+<h3 align="center">A IT Enthusiast From Indonesia</h3>
 <div align="center">
   <img height="183" src="https://cdn-web.ruangguru.com/landing-pages/assets/hs/programmer.gif">
 </div>
